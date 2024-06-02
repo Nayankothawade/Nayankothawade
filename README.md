@@ -17,7 +17,6 @@
 -----------------------------------------------
 
 ### :hammer_and_wrench: Languages and Tools:
-
 <p align="left">  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
 </a>
@@ -42,14 +41,13 @@
 -----------------------------------------------
 
 ### :fire: My Stats :
-
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nayankothawade&" alt="nayankothawade" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&show_icons=true&locale=en&layout=compact" alt="nayankothawade" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
 </p>
 
 <p align="center"> 
