@@ -41,13 +41,12 @@
 -----------------------------------------------
 
 ### :fire: My Stats :
-<p>
+<!-- <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nayankothawade&" alt="nayankothawade" />
 </p>
 
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&show_icons=true&locale=en&layout=compact" alt="nayankothawade" />
-<br><br><br>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
@@ -56,12 +55,11 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankothawade" alt="nayankothawade" />
 </a> 
-</p>
+</p> -->
 
-<!-- <h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:
 
 <p>
 <a href="https://www.buymeacoffee.com/Nayan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nayan" />
 </a>
-</p>
-<br> -->
+</p> -->
