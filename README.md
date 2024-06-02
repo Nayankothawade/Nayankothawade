@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayankothawade&label=Profile%20views&color=0e75b6&style=flat" alt="nayankothawade" /> 
 </p>
 
+-----------------------------------------------
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
@@ -37,6 +39,8 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/visual_studio.svg" alt="aws" width="50" height="50"/> 
 </a>
 </p>
+
+-----------------------------------------------
 
 - 🔭 I’m currently working on **C#**
 
