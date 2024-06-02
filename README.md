@@ -41,6 +41,12 @@
 -----------------------------------------------
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayankothawade&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nayankothawade)
+
+[![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayankothawade&show_icons=true&theme=radical)](https://github.com/Nayankothawade)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankothawade&langs_count=10)](https://github.com/Nayankothawade)
+
 <!-- <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nayankothawade&" alt="nayankothawade" />
 </p>
