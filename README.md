@@ -18,7 +18,7 @@
 <a href="https://x.com/NayanKothawade/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="nayankothawade" />
 </a> 
 
-<a href="https://www.linkedin.com/in/swapnil-gadave-8a090318b" target="_blank">
+<a href="https://www.linkedin.com/in/nayan-kothawade-4301031b1" target="_blank">
 <img src="https://github.com/sgadave/sgadave/blob/main/icons/linkedin.svg" alt="JAVA" width="55" height="55"/>
 </a>
 </p>
