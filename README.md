@@ -19,7 +19,7 @@
 </a> 
 
 <a href="https://www.linkedin.com/in/nayan-kothawade-4301031b1" target="_blank">
-<img src="https://linkedin.svg" alt="JAVA" width="55" height="55"/>
+<img src="https://github.com/sgadave/sgadave/blob/main/icons/linkedin.svg" alt="JAVA" width="55" height="55"/>
 </a>
 </p>
 
