@@ -39,6 +39,8 @@
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/aws.svg" alt="aws" width="50" height="50"/> 
 </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/visual_studio.svg" alt="aws" width="50" height="50"/> 
+</a>
 </p>
 
 <!-- <h3 align="left">Support:</h3>
