@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
-<a href="https://x.com/NayanKothawade/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/x.svg" alt="nayankothawade" />
+<a href="https://x.com/NayanKothawade/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/x.svg" alt="nayankothawade" width="55" height="55"/>
 </a> 
 
 <a href="https://www.linkedin.com/in/nayan-kothawade-4301031b1" target="_blank">
