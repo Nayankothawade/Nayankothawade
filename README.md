@@ -52,7 +52,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&show_icons=true&locale=en&layout=compact" alt="nayankothawade" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
+<p /n ><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
 </p>
 
 <p align="center"> 
