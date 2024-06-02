@@ -10,10 +10,10 @@
 </a> 
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
 <a href="https://x.com/NayanKothawade/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="nayankothawade" />
 </a> 
-</p>
+</p> -->
 
 - 🔭 I’m currently working on **C#**
 
