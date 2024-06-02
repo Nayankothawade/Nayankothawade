@@ -47,7 +47,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&show_icons=true&locale=en&layout=compact" alt="nayankothawade" />
 </p>
 
-<p align="center"><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
+<p align="center"><br></br><img align="center" src="https://github-readme-stats.vercel.app/api?username=nayankothawade&show_icons=true&locale=en" alt="nayankothawade" />
 </p>
 
 <p align="center"> 
