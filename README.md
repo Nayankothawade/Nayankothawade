@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayankothawade&label=Profile%20views&color=0e75b6&style=flat" alt="nayankothawade" /> 
 </p>
 
-<h3 ## 🌐 align="left">Connect with me:</h3>
-
+## 🌐 Connect with me:
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nayan-kothawade-4301031b1" target="_blank">
 <img src="https://github.com/nayankothawade/nayankothawade/blob/main/icons/linkedin.svg" alt="nayankothawade" width="55" height="55"/>
