@@ -32,9 +32,9 @@
 </a> 
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/html5.svg" alt="html5" width="50" height="50"/> 
 </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/javalogo.svg" alt="java" width="50" height="50"/> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/java.svg" alt="java" width="50" height="50"/> 
 </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/js.svg" alt="javascript" width="50" height="50"/> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/javascript.svg" alt="javascript" width="50" height="50"/> 
 </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
 </a> 
