@@ -17,8 +17,10 @@
 -----------------------------------------------
 
 ### Languages and Tools :hammer_and_wrench:
-<p align="left">  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
+<p align="left"> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/mysql.svg" alt="mysql" width="50" height="50"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/ms-sql-server.svg" alt="mssql" width="50" height="50"/> 
 </a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/c-sharp.svg" alt="csharp" width="50" height="50"/> 
 </a>  
