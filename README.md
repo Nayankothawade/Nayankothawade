@@ -52,7 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankothawade)](https://github.com/Nayankothawade)
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankothawade" alt="nayankothawade" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankothawade&theme=dark&border_radius=13" alt="nayankothawade" />
 </a> 
 </p>
 
