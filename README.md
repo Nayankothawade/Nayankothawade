@@ -49,7 +49,7 @@
 
 [![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayankothawade&show_icons=true&theme=radical)](https://github.com/Nayankothawade)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankothawade&langs_count=10)](https://github.com/Nayankothawade)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankothawade)](https://github.com/Nayankothawade)
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankothawade" alt="nayankothawade" />
