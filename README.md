@@ -12,6 +12,8 @@
 </a>
 <a href="https://x.com/NayanKothawade/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/x.svg" alt="nayankothawade" width="55" height="55"/>
 </a>
+<a href="https://instagram.com/NayanKothawade/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/instagram.png" alt="nayankothawade" width="55" height="55"/>
+</a>
 </p>
 
 -----------------------------------------------
