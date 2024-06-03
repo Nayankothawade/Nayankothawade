@@ -25,7 +25,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/java.svg" alt="java" width="50" height="50"/> 
 </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/javascript.svg" alt="javascript" width="50" height="50"/> 
-</a> 
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/react.svg" alt="javascript" width="50" height="50"/> 
+</a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/nodejs.svg" alt="nodejs" width="50" height="50"/> 
 </a>
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/html5.svg" alt="html5" width="50" height="50"/> 
