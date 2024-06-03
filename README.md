@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayankothawade&label=Profile%20views&color=0e75b6&style=flat" alt="nayankothawade" /> 
 </p>
 
-### Connect with me: 🌐
+### Connect with me 🌐
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nayan-kothawade-4301031b1" target="_blank">
 <img src="https://github.com/nayankothawade/nayankothawade/blob/main/icons/linkedin.svg" alt="nayankothawade" width="55" height="55"/>
@@ -16,7 +16,7 @@
 
 -----------------------------------------------
 
-### Languages and Tools: :hammer_and_wrench:
+### Languages and Tools :hammer_and_wrench:
 <p align="left">  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
 </a>
@@ -44,7 +44,7 @@
 
 -----------------------------------------------
 
-### My Stats : :fire:
+### My Stats :fire:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayankothawade&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nayankothawade)
 
 [![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayankothawade&show_icons=true&theme=radical)](https://github.com/Nayankothawade)
