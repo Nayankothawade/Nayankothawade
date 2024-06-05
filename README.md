@@ -58,9 +58,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&hide_border=true" alt="nayankothawade" />
 </p>
 
-// show_icons=true&theme=dark&border_radius=13
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayankothawade&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nayankothawade)
+
+<!--  show_icons=true&theme=dark&border_radius=13
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayankothawade&theme=dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nayankothawade)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankothawade)](https://github.com/Nayankothawade)
 
