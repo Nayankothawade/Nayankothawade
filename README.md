@@ -12,7 +12,7 @@
 </a>
 <a href="mailto:nayankothawade133@gmail.com/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/gmail.svg" alt="nayankothawade" width="55" height="55"/>
 </a>
-<a href="https://gmail.com/NayanKothawade/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/x.svg" alt="nayankothawade" width="55" height="55"/>
+<a href="https://x.com/NayanKothawade/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/x.svg" alt="nayankothawade" width="55" height="55"/>
 </a>
 </p>
 
