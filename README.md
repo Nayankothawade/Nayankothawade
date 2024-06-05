@@ -7,7 +7,7 @@
 
 ### Connect with me 🌐
 <p align="left"> 
-<a href="https://www.linkedin.com/in/nayankothawade" target="_blank">
+<a href="https://www.linkedin.com/in/Nayankothawade" target="_blank">
 <img src="https://github.com/nayankothawade/nayankothawade/blob/main/icons/linkedin.svg" alt="nayankothawade" width="55" height="55"/>
 </a>
 <a href="mailto:nayankothawade133@gmail.com/" target="blank"><img src="https://github.com/Nayankothawade/Nayankothawade/blob/main/icons/gmail.svg" alt="nayankothawade" width="55" height="55"/>
