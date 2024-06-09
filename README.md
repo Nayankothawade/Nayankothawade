@@ -59,7 +59,9 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p>
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="nayankothawade" />
+</p>
 
 <!--  show_icons=true&theme=dark&border_radius=13
 
