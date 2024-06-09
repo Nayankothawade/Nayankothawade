@@ -54,9 +54,9 @@
 
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nayankothawade&theme=blue-green&border_radius=13&hide_border=true" alt="nayankothawade" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&border_radius=13&hide_border=true" alt="nayankothawade" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&border_radius=13&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
