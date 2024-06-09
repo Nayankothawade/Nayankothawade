@@ -58,8 +58,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&border_radius=13&hide_border=true" alt="nayankothawade" />
 </p>
 
-<p>
-### ✍️ Random Dev Quote
+<p ✍️ Random Dev Quote> 
 <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="nayankothawade" />
 </p>
 
