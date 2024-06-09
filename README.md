@@ -58,10 +58,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&border_radius=13&hide_border=true" alt="nayankothawade" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&border_radius=13&hide_border=true")
+
 ### ✍️ Random Dev Quote
-<p> 
-<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="nayankothawade" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!--  show_icons=true&theme=dark&border_radius=13
 
