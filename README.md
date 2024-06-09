@@ -59,7 +59,7 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!--  show_icons=true&theme=dark&border_radius=13
 
