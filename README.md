@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nayan</h1>
+### <h1 align="center">Hi 👋, I'm Nayan</h1>
 
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
@@ -16,7 +16,7 @@
 </a>
 </p>
 
-
+-----------------------------------------------
 
 ### Languages and Tools :hammer_and_wrench:
 <p align="left"> 
@@ -48,7 +48,7 @@
 
 - 🔭 I’m currently working on **C#**
 
-
+-----------------------------------------------
 
 ### My Stats :fire:
 
