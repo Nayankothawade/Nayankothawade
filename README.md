@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Nayan</h1>
+<h1 align="center">Hi 👋, I'm Nayan</h1>
 
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
@@ -58,7 +58,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankothawade&layout=compact&theme=blue-green&border_radius=13&hide_border=true" alt="nayankothawade" />
 </p>
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 <!--  show_icons=true&theme=dark&border_radius=13
 
